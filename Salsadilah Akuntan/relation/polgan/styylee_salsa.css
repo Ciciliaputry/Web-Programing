@@ -1,0 +1,36 @@
+body{
+        margin:0;
+	}
+.box{
+	width:1000px;
+	margin:0 auto;
+	overflow:hidden;
+	background-color:green;
+	}
+.box .header{
+	height:120px;
+	border:1px solid #f00;
+	line-height:120px;
+	background-color:blue;
+	width:1000px;
+	}
+.box .left{
+	width:50%;
+	height:400px;
+	background-color:#8fbf8f;
+	float:left;
+	}
+.box .right{
+	width:50%;
+	height:400px;
+	background-color:#e48cf8;
+	float:left;
+	}
+.box .footer{
+	height:100px;
+	border:1px solid #e64dfa;
+	line-height:100px;
+	}
+div{
+	text-align:center;
+	}

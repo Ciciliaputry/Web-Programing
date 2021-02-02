@@ -1,0 +1,10 @@
+.Ks {
+	background-color:gray;
+	grid-template-columns: 150px 20px 150px 20px;
+	grid-template-rows: auto 20px auto 20px auto;
+}
+.ws {
+	background-color:yellow;
+	grid-template-columns: 150px 20px 150px 20px;
+	grid-template-rows: auto 20px auto 20px auto;
+}
